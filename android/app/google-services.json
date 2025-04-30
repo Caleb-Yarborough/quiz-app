@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "994562712503",
+    "project_id": "quizzing-5ad54",
+    "storage_bucket": "quizzing-5ad54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994562712503:android:58d0677cb9c27e98befe32",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU158pSLW9AIIIMOoX4Horbm0bAVu_Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994562712503:android:46f342724a23be1abefe32",
+        "android_client_info": {
+          "package_name": "com.example.quizzing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASU158pSLW9AIIIMOoX4Horbm0bAVu_Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# quiz-app
+app to study flashcards and quiz yourself on what you learned
 
 App Instructions:
 
@@ -17,7 +18,4 @@ to take a quiz:
 tap on a studyset --> tap the quiz icon (square with ?) in the botton nav bar
 --> go through and answer all questions (tap radio button, tap submit, tap next) 
 --> tap return to studyset
-=======
-# quiz-app
-app to study flashcards and quiz yourself on what you learned
->>>>>>> 
+

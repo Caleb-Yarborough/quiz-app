@@ -1,7 +1,7 @@
-App Instructions:
-
 # quiz-app
 app to study flashcards and quiz yourself on what you learned
+
+App Instructions:
 
 to use flashcards:
 tap on a study set --> tap card at the top to flip and see the definition

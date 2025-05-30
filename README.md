@@ -1,6 +1,10 @@
 # quiz-app
 app to study flashcards and quiz yourself on what you learned
 
+make a username and password or use
+username: bob@gmail.com
+password: abc123456
+
 App Instructions:
 
 to use flashcards:
